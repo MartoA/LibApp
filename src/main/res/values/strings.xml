@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LibraryApp</string>
+    <string name="register">register</string>
+    <string name="login">login</string>
+    <string name="type_desireble_username_here">Type desireble username here</string>
+    <string name="your_name">Your name</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string-array name="currency">
+        <item>BGN</item>
+        <item>USD</item>
+        <item>Euro</item>
+        <item>RUB</item>
+        <item>TRY</item>
+        <item>JPN</item>
+    </string-array>
+
+</resources>
